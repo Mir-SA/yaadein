@@ -12,9 +12,9 @@ To run this app
  3.  Configure the .env file in server and set DB_URI variable to your database URI.
  4. Once dependencies and database is set, run the client with
  ```
-			 npm start
-```
+	 npm start
+ ```
 5. Then run the server with
  ```
-			 npm start
-```
+	npm start
+ ```
