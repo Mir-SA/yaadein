@@ -1,8 +1,9 @@
 # Yaadein
 
 ## Description
-This is a Social Networking app.  User can perform all sorts of CRUD operation with their post. However, user need to authenticated to create the post / edit the post / delete the post. Users can signup with their details like name, mail, password OR they can signup with their Google Account
-In addition to these operations user can also like a post and add a comment on each of the post. This app also features file uploads to add an image along with the post. 
+This is a Social Networking app. Users can perform all sorts of CRUD operations with their posts. However, users need to authenticate to create the post / edit the post / delete the post. Users can signup with their details like name, mail, password OR they can signup with their Google Account.
+
+In addition to these operations, users can also like a post and add a comment on each of the posts. This app also features file uploads to add an image along with the post
 
 ## Usage
 To run this app
